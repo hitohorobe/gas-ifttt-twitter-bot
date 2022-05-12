@@ -1,0 +1,24 @@
+{
+  "name": "gas-ifttt-twitter-bot",
+  "version": "1.0.0",
+  "description": "GAS + IFTTT でつくる無料Twitter Botのサンプル",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hitohorobe/gas-ifttt-twitter-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hitohorobe/gas-ifttt-twitter-bot/issues"
+  },
+  "homepage": "https://github.com/hitohorobe/gas-ifttt-twitter-bot#readme",
+  "dependencies": {
+    "@google/clasp": "^2.4.1",
+    "@types/google-apps-script": "^1.0.47"
+  }
+}
